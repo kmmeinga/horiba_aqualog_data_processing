@@ -7,7 +7,8 @@ Inputs are exported CSV files.
 Employs flucut for inner filter corrections, raman and raleigh cutting.
 
 Converts absorbance to absroption coefficients. 
-Converts raw emmissions to Raman Normalized and Quinene Sulfate Equivalent emmissions using 10 ppm QSE in 0.0105 M HCLO4
-
+Converts raw emmissions to Raman Normalized and Quinine Sulfate Equivalent emmissions using 10 ppm QSE in 0.0105 M HCLO4
+Exports as CSV.
+IMPORTANT -- Read ALL comment before using.
 
 
